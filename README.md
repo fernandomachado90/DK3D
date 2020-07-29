@@ -17,7 +17,7 @@ Starts the game locally.
 
 ![Capture of DK3D running on Ubuntu](DK3D.jpg)
 
-## Computação Gráfica
+## Credits
 
 - **Autor:** Luiz Fernando Machado Silva
 - **Orientador:** Prof. Dra. Ana Luísa Dine Martins Lemos
@@ -25,4 +25,6 @@ Starts the game locally.
 - **Curso:** Bacharelado em Ciência da Computação
 - **Instituição:**  Instituto de Ciência de Tecnologia (ICT) da Universidade Federal de São Paulo (UNIFESP)
 
-#### License CC0 1.0 (Public Domain)
+## License
+
+2013 [MIT License](LICENSE).
