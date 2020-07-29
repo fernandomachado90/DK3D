@@ -13,9 +13,11 @@ Builds game binary.
 ### `make run`
 Starts game locally.
 
+## Images
+
 ![Capture of DK3D running on Ubuntu](DK3D.jpg)
 
-### Computação Gráfica
+## Computação Gráfica
 
 - **Autor:** Luiz Fernando Machado Silva
 - **Orientador:** Prof. Dra. Ana Luísa Dine Martins Lemos
