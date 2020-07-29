@@ -8,10 +8,10 @@ An OpenGL 3D remake of the original Donkey Kong arcade game, released in 1981.
 ## Commands
 
 ### `make build`
-Builds game binary.
+Builds the game binary.
 
 ### `make run`
-Starts game locally.
+Starts the game locally.
 
 ## Images
 
