@@ -9,8 +9,8 @@ help:
 
 .PHONY: build
 build:
-	gcc -framework OpenGL -framework GLUT -o dk3d.o main.c
+	gcc -framework OpenGL -framework GLUT -o DK3D.o main.c
 
 .PHONY: run
 run:
-	./dk3d.o
+	./DK3D.o
