@@ -12,6 +12,10 @@
  Professora: Dra. Ana Luísa Dine Martins Lemos
  */
 
+ #include <stdio.h>
+ #include <stdlib.h>
+ #include <time.h>
+
 #ifdef __APPLE__
   #include <OpenGL/gl.h>
   #include <GLUT/glut.h>
@@ -20,9 +24,6 @@
   #include <GL/glut.h>
 #endif
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
 #define LADDERS 9
 #define FLOORS 7
 #define BARRELS 20
